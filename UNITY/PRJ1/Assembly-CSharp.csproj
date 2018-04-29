@@ -51,10 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Simple Scene Fade Load System\Demo (You don&apos;t have to import this folder)\DemoScript.cs" />
-     <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Fader.cs" />
-     <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Initiate.cs" />
-     <None Include="Assets\Simple Scene Fade Load System\ReadMeFirst.txt" />
+     <Compile Include="Assets\_Scenes\changer.cs" />
+     <Compile Include="Assets\_Scenes\imgLoader.cs" />
+     <Compile Include="Assets\_Scenes\Simple Scene Fade Load System\Scripts\Fader.cs" />
+     <Compile Include="Assets\_Scenes\Simple Scene Fade Load System\Scripts\Initiate.cs" />
+     <Compile Include="Assets\_Scenes\VideoLoader.cs" />
+     <None Include="Assets\_Scenes\Simple Scene Fade Load System\ReadMeFirst.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>F:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
